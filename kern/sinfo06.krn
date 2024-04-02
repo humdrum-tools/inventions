@@ -332,8 +332,10 @@
 !!LO:LB:g=original
 =32	=32	=32
 4.FF#	8c#L]	[2.a
+*	*clefF4	*
 .	8A	.
 .	8BJ	.
+*	*clefG2	*
 4.r	8c#L	.
 .	8d#	.
 .	8eJ	.
@@ -426,9 +428,8 @@
 =41	=41	=41
 [2.EE	[2.e	[2.g#
 4.EE];	4.e];	4.g#];
-*	*v	*v
-==	==
-*-	*-
+==	==	==
+*-	*-	*-
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://vmirror.imslp.org/files/imglnks/usimg/5/55/IMSLP396136-PMLP03268-Bach,_Johann_Sebastian-Werke_Breitkopf_Band_3_02_BWV_787-801.pdf#page=8 Bach-Gesellschaft Ausgabe, Band 3 (pp.19-42) Leipzig: Breitkopf und Härtel, 1853. Plate B.W. III.
 !!!URL-youtube: https://www.youtube.com/watch?v=Lao8x1bHWEg&t=612s Malinowski
