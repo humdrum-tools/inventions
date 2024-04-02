@@ -35,13 +35,16 @@
 4Bn	.	8ffL
 .	.	8ee-
 8G	.	8ddJ
+*	*clefF4	*
 =3	=3	=3
 4c	8cL	4.ee-
 .	8G	.
+*	*clefG2	*
 8r	8e-J	.
-4r	8e-L	[4.cc
+4.r	8e-L	[4.cc
 .	8c	.
-8r	8gJ	.
+.	8gJ	.
+!LO:N:vis=2	!	!
 2.r	4.g	8ccL]
 .	.	8bn
 .	.	8ccJ
@@ -460,6 +463,7 @@
 [4.E-	16cLL	4.cc
 .	16d	.
 .	16c	.
+*	*clefF4	*
 .	16B-X	.
 .	16A-X	.
 .	16GJJ	.
@@ -468,6 +472,7 @@
 16G	.	.
 16F	.	.
 16E-	.	.
+*	*clefG2	*
 16D	[8a-	.
 16CJJ	.	.
 16BBnLL	8a-L]	.
@@ -517,7 +522,9 @@
 .	16e-JJ	.
 =29	=29	=29
 4B-	8dL	8r
+*	*clefF4	*
 .	8F	8r
+*	*clefG2	*
 8r	8dJ	8ff
 4.r	8dL	4b-
 .	8B-	.
@@ -557,9 +564,11 @@
 8An	.	8cc
 8BnJ	.	8ddJ
 [2.E-	16fLL]	[2.g
+*	*clefF4	*
 .	16G	.
 .	16An	.
 .	16Bn	.
+*	*clefG2	*
 .	16c	.
 .	16dJJ	.
 .	16e-LL	.
