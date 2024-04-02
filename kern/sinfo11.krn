@@ -8,14 +8,14 @@
 *clefF4	*clefG2	*clefG2
 *k[b-e-]	*k[b-e-]	*k[b-e-]
 *g:	*g:	*g:
-*M3/8	*M3/8	*3/8
+*M3/8	*M3/8	*M3/8
 *MM80	*MM80	*MM80
 =1	=1	=1
 4G	4.r	16r
 .	.	16ddLL
-.	.	h16b-
-.	.	h16gJ
-8E-	.	h8ggJ
+.	.	16b-
+.	.	16gJ
+8E-	.	8ggJ
 =2	=2	=2
 4D	16r	4.ff
 .	16aLL	.
@@ -57,7 +57,9 @@
 4.F	16r	[4bnm
 .	16dLL	.
 .	16Bn	.
+*	*clefF4	*
 .	16GJ	.
+*	*clefG2	*
 .	[8gJ	16bLL]
 .	.	32aL
 .	.	32bJJJ
@@ -264,6 +266,7 @@
 4.g	8.b-L]	16ddLL]
 .	.	16bb-
 .	.	16gg
+*	*down	*
 .	16b-K	16ee-J
 .	[8ee-J	[8cccJ
 =42	=42	=42
@@ -306,6 +309,7 @@
 8dJ	8f#X	16dd
 .	.	16aaJJ
 *clefF4	*	*
+*	*Xdown	*
 =48	=48	=48
 16GLL	4.g	[4.b-
 !	!	!
@@ -316,9 +320,11 @@
 =49	=49	=49
 [4.E-	8cL	16b-LL]
 .	.	16g
+*	*clefF4	*
 .	8B-	16e-
 .	.	16cJ
 .	8cJ	8b-J
+*	*clefG2	*
 !!LO:LB:g=original
 =50	=50	=50
 16E-LL]	4.f	[4.a
@@ -329,9 +335,11 @@
 =51	=51	=51
 [4.D	8B-L	16aLL]
 .	.	16f
+*	*clefF4	*
 .	8A	16d
 .	.	16B-J
 .	8B-J	8a-XJ
+*	*clefG2	*
 =52	=52	=52
 16DLL]	[4.e-	[4.g
 16BB-	.	.
