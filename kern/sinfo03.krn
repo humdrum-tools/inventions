@@ -76,7 +76,6 @@
 8D	16b	16dd
 .	16aJJ	16cc#JJ
 8E	16g#XLL	8bL
-!	!	!LO:TX:b:i:t=cresc.
 .	16ff#	.
 8EEJ	16ee	8gg#XJ
 .	16ddJJ	.
@@ -377,16 +376,20 @@
 .	.	16ff#
 .	8BJ	16ee
 .	.	16ddnJJ
+*	*clefF4	*
 .	8AL	16cc#LL
 .	.	16a
+*	*clefG2	*
 .	16dL	16b
 .	16eJJ	16cc#JJ
 [4F#	8f#L	16ddLL
 .	.	16ee
+*	*clefF4	*
 .	8AJ	16dd
 .	.	16cc#JJ
 =23	=23	=23
 16F#LL]	16GLL	16bLL
+*	*clefG2	*
 16E	16f#	16a
 16F#	16e	16g
 16GJJ	16dJJ	16f#JJ
@@ -429,9 +432,8 @@
 8AAJ	16a	.
 .	16gJJ	.
 2DD;	2f#;	2dd;
-*	*v	*v
-==	==
-*-	*-
+==	==	==
+*-	*-	*-
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://vmirror.imslp.org/files/imglnks/usimg/5/55/IMSLP396136-PMLP03268-Bach,_Johann_Sebastian-Werke_Breitkopf_Band_3_02_BWV_787-801.pdf#page=4 Bach-Gesellschaft Ausgabe, Band 3 (pp.19-42) Leipzig: Breitkopf und Härtel, 1853. Plate B.W. III.
 !!!URL-youtube: https://www.youtube.com/watch?v=Lao8x1bHWEg&t=233s Malinowski
