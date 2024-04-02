@@ -169,8 +169,10 @@
 =18	=18	=18
 8FF#L	8c#XL	16a#XLL
 .	.	16ff#
+*	*clefF4	*
 8F#	8F#	16ee
 .	.	16ddJJ
+*	*clefG2	*
 8A#X	8c#	16cc#XLL
 .	.	16ff#
 8B	8dJ	16cc#
@@ -188,8 +190,11 @@
 .	16f#	.
 8BBL	16d	.
 .	16c#XJJ	.
+*	*clefF4	*
 8C#X	16BLL	[4ff#
+*	*clefG2	*
 .	16f#	.
+*	*clefF4	*
 8DJ	16B	.
 .	16AJJ	.
 =20	=20	=20
@@ -197,6 +202,7 @@
 .	.	16bb
 .	.	16gg
 .	.	16ff#JJ
+*	*clefG2	*
 8r	4r	16eeLL
 .	.	16gg
 8F#L	.	16ee
@@ -214,8 +220,11 @@
 .	16e	.
 8AAL	16c#	.
 .	16BJJ	.
+*	*clefF4	*
 8BB	16ALL	[4ee
+*	*clefG2	*
 .	16e	.
+*	*clefF4	*
 8C#J	16A	.
 .	16GJJ	.
 =22	=22	=22
@@ -224,6 +233,7 @@
 .	.	16aa
 .	.	16ff#
 .	.	16eeJJ
+*	*clefG2	*
 8r	4r	16ddLL
 .	.	16ff#
 8EL	.	16dd
@@ -275,11 +285,15 @@
 *	*clefG2	*
 =26	=26	=26
 2.r	16c#XLL	8ff#L]
+*	*clefF4	*
 .	16A	.
+*	*clefG2	*
 .	16c#	8ee
 .	16dJJ	.
 .	16eLL	8gg
+*	*clefF4	*
 .	16A	.
+*	*clefG2	*
 .	16e	8ff#
 .	16f#JJ	.
 .	16gLL	8ee
